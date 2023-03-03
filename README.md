@@ -22,3 +22,6 @@ Train your model on the training set and use cross validation to evaluate the mo
 Plot a confusion matrix to visualise the model's prediction performance for each of the digit classes in the dataset 
 
 Test the accuracy of your model on unseen data and evaluate its performance by cross validating the model. 
+
+# Author
+**Vincent Kipkorir**
